@@ -67,9 +67,9 @@ enum adcAddress{
     //% block="V2.x"
     iBIT_V2=0x4A,
     //% block="0x49"
-    iBIT_V1=0x49,
+    iBIT_49=0x49,
     //% block="0x4B"
-    iBIT_V2=0x4B
+    iBIT_4B=0x4B
 }
 /**
   * Enumeration of Servo.
